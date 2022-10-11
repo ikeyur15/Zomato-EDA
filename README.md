@@ -21,8 +21,8 @@ Zomato API Analysis is one of the most useful analysis for foodies who want to t
    3: Ice Cream Parlors
 - Inferences and Conclusions
 
->Dataset Details
-Restaurant Id: Unique id of every restaurant across various cities of the world
+> Dataset Details
+> Restaurant Id: Unique id of every restaurant across various cities of the world
 Restaurant Name: Name of the restaurant
 Country Code: Country in which restaurant is located
 City: City in which restaurant is located
